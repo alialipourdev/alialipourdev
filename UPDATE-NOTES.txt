@@ -1,0 +1,13 @@
+README update notes
+
+This version is rebuilt from the uploaded Ali Alipour resume.
+It includes the full skills categories, all four listed roles and exact date ranges,
+both listed projects and their links, and the contribution Snake explanation.
+
+Important:
+- The Snake does NOT represent years of employment. It visualizes GitHub contribution activity.
+- Empty cells mean no qualifying contribution was recorded for those dates.
+- Do not fabricate commits to fill the graph. Only real work/contributions should appear.
+- The resume states "4+ years" in its profile, while the listed employment history begins in 07/2024.
+  Confirm whether earlier experience exists before prominently claiming 4+ years.
+- Project artwork in assets is illustrative showcase artwork, not verified product screenshots.

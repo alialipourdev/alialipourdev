@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Ali Alipour — Frontend Engineer and Digital Craftsman" />
+<img src="./assets/hero.png" width="100%" alt="Ali Alipour — Frontend Engineer" />
 
 <br/>
 
 <a href="https://github.com/alialipourdev">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/ali-alipour-037b37324">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:alialipour.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=650&lines=I+turn+ideas+into+digital+products.;I+build+more+than+just+interfaces.;React+%2F+Next.js+%2F+TypeScript;Thoughtful+engineering.+Creative+execution." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=650&lines=I+design+and+engineer+digital+experiences.;Turning+ideas+into+scalable+products.;React+%2F+Next.js+%2F+TypeScript;Thoughtful+engineering.+Creative+execution." alt="Animated introduction"/>
 
 </div>
 
@@ -24,28 +24,35 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## ✳ About Me
+## ✳ ABOUT
 
-I'm **Ali Alipour**, a Frontend Developer with **4+ years of experience** building scalable and responsive web applications.
+I'm **Ali Alipour**, a Frontend Developer focused on building scalable, responsive web applications with **React, Next.js, and TypeScript**.
 
-I enjoy the intersection of engineering and design — creating clean architectures, thoughtful interfaces, and fast, reliable user experiences.
+I enjoy turning complex requirements into clear, reliable user experiences. My work spans reusable component systems, state management, API integration, performance, and collaborative product development.
 
-I care about the details, from reusable components and state management to accessibility, performance, and maintainability.
+I care about the craft behind the interface: maintainable architecture, thoughtful interaction design, and details that make products feel polished.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-## ✳ My Toolkit
+## ✳ AT A GLANCE
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,docker,git&theme=dark&perline=5" alt="Core technologies"/>
-</div>
+**ROLE**  
+Frontend Developer
 
-**Also working with**
+**CORE STACK**  
+React · Next.js · TypeScript
 
-`Zustand` · `TanStack Query` · `React Hook Form` · `Zod` · `TanStack Table` · `shadcn/ui` · `Radix UI` · `MUI` · `Turborepo` · `pnpm` · `Biome` · `ESLint` · `Prettier` · `Jest` · `Cypress`
+**FOCUS**  
+Frontend Architecture  
+UI Engineering  
+Performance & UX  
+Reusable Design Systems
+
+**LOCATION**  
+Shiraz, Iran
 
 </td>
 </tr>
@@ -53,9 +60,36 @@ I care about the details, from reusable components and state management to acces
 
 ---
 
-## ✳ Selected Projects
+<div align="center">
 
-<p align="center"><i>Real products. Real engineering.</i></p>
+## ✳ THE TOOLKIT
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,docker,git&theme=dark&perline=5" alt="Core technology icons"/>
+
+</div>
+
+| Area | Technologies |
+|---|---|
+| Languages | JavaScript (ES6+), TypeScript |
+| Frameworks & Libraries | React, Next.js (App Router, SSR/ISR, Server Components), Redux, Zustand, TanStack Query, React Hook Form, Zod, TanStack Table, jQuery |
+| UI & Styling | Tailwind CSS v4, shadcn/ui, Radix UI, MUI, Bootstrap, CVA |
+| Data & Rich Content | Recharts, Lexical, Leaflet, Swiper |
+| API & Integration | REST, GraphQL, Axios, Orval, Hey API |
+| Monorepo & Build | Turborepo, pnpm Workspaces, Turbopack, Vite |
+| Code Quality | Git, Biome.js, ESLint, Prettier, Husky, lint-staged, Commitlint |
+| Monitoring & Testing | Sentry, Jest, Cypress |
+| SEO & Performance | Next.js Metadata API, JSON-LD, Image Optimization |
+| Design | Responsive Design, RTL Interfaces, UI/UX Optimization |
+
+---
+
+<div align="center">
+
+## ✳ SELECTED WORK
+
+*Digital products, built with care.*
+
+</div>
 
 <table>
 <tr>
@@ -67,9 +101,9 @@ I care about the details, from reusable components and state management to acces
 
 **E-commerce Platform**
 
-A multi-application e-commerce ecosystem with customer, vendor, and administration experiences.
+A multi-application commerce ecosystem with customer-facing, vendor, and administration experiences.
 
-**Stack**
+**STACK**
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Zustand` `TanStack Query` `Turborepo` `Docker`
 
@@ -84,13 +118,13 @@ A multi-application e-commerce ecosystem with customer, vendor, and administrati
 
 ### 02 / SOFREHDAR
 
-**Multi-Role Food Ordering & Catering Management**
+**Multi-Role Food Ordering & Catering Management System**
 
-A platform for food ordering and catering operations, designed around multiple user roles.
+A food ordering and catering management platform built around multiple user roles.
 
-**Stack**
+**STACK**
 
-`Next.js` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui` `Zustand`
+`Next.js` `React` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui` `Zustand`
 
 - [Admin Panel](https://panel.sofrehdar.com/)
 
@@ -100,56 +134,44 @@ A platform for food ordering and catering operations, designed around multiple u
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ✳ EXPERIENCE
 
-## ✳ Experience
+<sub>PROFESSIONAL EXPERIENCE · REMOTE</sub>
 
-**03/2026 — Present**  
-Frontend Developer · **Rayan Dadeh Noafarin**
+| Period | Role | Organization |
+|---|---|---|
+| **03/2026 – Present** | Frontend Developer | **Rayan Dadeh Noafarin** |
+| **09/2025 – 03/2026** | Independent Frontend Developer | **Freelance** |
+| **02/2025 – 08/2025** | Frontend Developer | **Invesweet** |
+| **07/2024 – 01/2025** | Frontend Developer | **Blackstudio** |
 
-**09/2025 — 03/2026**  
-Independent Frontend Developer · **Freelance**
+### WHAT I DO
 
-**02/2025 — 08/2025**  
-Frontend Developer · **Invesweet**
-
-**07/2024 — 01/2025**  
-Frontend Developer · **Blackstudio**
-
-</td>
-<td width="50%" valign="top">
-
-## ✳ What I Focus On
-
-- Scalable frontend architecture
-- Responsive and RTL interfaces
-- Reusable component systems
-- State and server-data management
-- UI/UX and performance optimization
-- API integration and developer experience
-- Monorepo workflows and tooling
-
-</td>
-</tr>
-</table>
+- Build scalable web applications with Next.js, React, TypeScript, and Tailwind CSS.
+- Develop reusable UI components and maintain consistent component systems with shadcn/ui.
+- Manage client and server state using Zustand and TanStack Query.
+- Work with Turborepo monorepos, pnpm workspaces, and Docker-based workflows.
+- Integrate REST and GraphQL APIs and generate typed API clients.
+- Build responsive interfaces, including RTL layouts, and improve usability and performance.
+- Collaborate with backend developers, clients, and product teams; participate in code reviews.
 
 ---
 
 <div align="center">
 
-## ✳ The Contribution Universe
+## ✳ THE CONTRIBUTION FLOW
 
 *Every contribution tells a story.*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg" width="100%" alt="GitHub contribution activity snake"/>
 </picture>
 
-<br/>
+<sub>The animation visualizes GitHub contribution activity. Empty cells mean GitHub has no qualifying activity recorded for those dates.</sub>
+
+<br/><br/>
 
 <a href="https://github.com/alialipourdev?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-A3E635?style=for-the-badge&logo=github&logoColor=111111" alt="Explore repositories"/>
@@ -163,7 +185,9 @@ Frontend Developer · **Blackstudio**
 
 # LET'S MAKE SOMETHING MEANINGFUL.
 
-I'm always interested in good ideas, challenging projects, and great people to build with.
+I’m interested in thoughtful products, challenging frontend problems, and collaborating with people who care about the details.
+
+<br/>
 
 <a href="mailto:alialipour.dev@gmail.com">
   <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-A3E635?style=for-the-badge&logo=gmail&logoColor=111111" alt="Start a conversation"/>
@@ -180,5 +204,7 @@ I'm always interested in good ideas, challenging projects, and great people to b
 <br/><br/>
 
 <sub>THINK DIFFERENT. &nbsp; · &nbsp; BUILD BETTER. &nbsp; · &nbsp; KEEP CREATING.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A3E635,50:222222,100:080808" width="100%" alt="Lime footer"/>
 
 </div>
