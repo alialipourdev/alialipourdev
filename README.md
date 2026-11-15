@@ -24,18 +24,18 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 ## ✳ ABOUT
 
-I'm **Ali Alipour**, a Frontend Developer focused on building scalable, responsive web applications with **React, Next.js, and TypeScript**.
+I'm **Ali Alipour** — a Frontend Developer who enjoys turning ambitious product ideas into clear, reliable digital experiences.
 
-I enjoy turning complex requirements into clear, reliable user experiences. My work spans reusable component systems, state management, API integration, performance, and collaborative product development.
+I work primarily with **React, Next.js, and TypeScript**, building responsive applications with thoughtful component architecture, predictable state management, and well-integrated APIs.
 
-I care about the craft behind the interface: maintainable architecture, thoughtful interaction design, and details that make products feel polished.
+I care about the decisions users may never notice: maintainable code, consistent design systems, performance, accessibility, and interactions that feel natural. I like taking ownership from the first interface decisions through implementation and refinement.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
 ## ✳ AT A GLANCE
 
@@ -45,42 +45,83 @@ Frontend Developer
 **CORE STACK**  
 React · Next.js · TypeScript
 
-**FOCUS**  
+**ENGINEERING FOCUS**  
 Frontend Architecture  
 UI Engineering  
-Performance & UX  
-Reusable Design Systems
+Reusable Systems  
+Performance & UX
 
 **LOCATION**  
 Shiraz, Iran
 
+<br/>
+
+<sub>THOUGHTFUL INTERFACES. SOLID ENGINEERING.</sub>
+
 </td>
 </tr>
 </table>
-
 ---
 
 <div align="center">
 
 ## ✳ THE TOOLKIT
+*An evolving set of tools for building thoughtful products.*
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,docker,git&theme=dark&perline=5" alt="Core technology icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,docker,git&theme=dark&perline=9" alt="Core technology icons"/>
 
 </div>
 
-| Area | Technologies |
-|---|---|
-| Languages | JavaScript (ES6+), TypeScript |
-| Frameworks & Libraries | React, Next.js (App Router, SSR/ISR, Server Components), Redux, Zustand, TanStack Query, React Hook Form, Zod, TanStack Table, jQuery |
-| UI & Styling | Tailwind CSS v4, shadcn/ui, Radix UI, MUI, Bootstrap, CVA |
-| Data & Rich Content | Recharts, Lexical, Leaflet, Swiper |
-| API & Integration | REST, GraphQL, Axios, Orval, Hey API |
-| Monorepo & Build | Turborepo, pnpm Workspaces, Turbopack, Vite |
-| Code Quality | Git, Biome.js, ESLint, Prettier, Husky, lint-staged, Commitlint |
-| Monitoring & Testing | Sentry, Jest, Cypress |
-| SEO & Performance | Next.js Metadata API, JSON-LD, Image Optimization |
-| Design | Responsive Design, RTL Interfaces, UI/UX Optimization |
+<table>
+<tr>
+<td width="50%" valign="top">
 
+**01 / LANGUAGES**
+
+`JavaScript (ES6+)` · `TypeScript`
+
+**02 / FRAMEWORKS & STATE**
+
+`React` · `Next.js` · `Redux` · `Zustand` · `TanStack Query` · `jQuery`
+
+**03 / UI & STYLING**
+
+`Tailwind CSS v4` · `shadcn/ui` · `Radix UI` · `MUI` · `Bootstrap` · `CVA`
+
+**04 / FORMS & DATA**
+
+`React Hook Form` · `Zod` · `TanStack Table` · `Recharts` · `Lexical` · `Leaflet` · `Swiper`
+
+**05 / API & INTEGRATION**
+
+`REST` · `GraphQL` · `Axios` · `Orval` · `Hey API`
+
+</td>
+<td width="50%" valign="top">
+
+**06 / MONOREPO & BUILD**
+
+`Turborepo` · `pnpm Workspaces` · `Turbopack` · `Vite`
+
+**07 / CODE QUALITY**
+
+`Git` · `Biome.js` · `ESLint` · `Prettier` · `Husky` · `lint-staged` · `Commitlint`
+
+**08 / TESTING & MONITORING**
+
+`Sentry` · `Jest` · `Cypress`
+
+**09 / SEO & PERFORMANCE**
+
+`Next.js Metadata API` · `JSON-LD` · `Image Optimization`
+
+**10 / DESIGN & EXPERIENCE**
+
+`Responsive Design` · `RTL Interfaces` · `UI/UX Optimization`
+
+</td>
+</tr>
+</table>
 ---
 
 <div align="center">
@@ -158,17 +199,43 @@ A food ordering and catering management platform built around multiple user role
 
 <div align="center">
 
-## ✳ THE CONTRIBUTION FLOW
+## ✳ ENGINEERING DNA
+*The principles behind every interface I build.*
 
-*Every contribution tells a story.*
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg" width="100%" alt="GitHub contribution activity snake"/>
-</picture>
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<sub>The animation visualizes GitHub contribution activity. Empty cells mean GitHub has no qualifying activity recorded for those dates.</sub>
+### 01
+**THOUGHTFUL BY DESIGN**
+
+Interfaces should feel clear, intentional, and effortless. Every component has a purpose; every interaction earns its place.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 02
+**SYSTEMS THAT SCALE**
+
+Reusable components, consistent patterns, and maintainable architecture make products easier to evolve.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 03
+**QUALITY IN THE DETAILS**
+
+Performance, accessibility, responsive behavior, and clean implementation are part of the product — not afterthoughts.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>LESS NOISE. MORE CLARITY. BETTER PRODUCTS.</sub>
 
 <br/><br/>
 
@@ -177,7 +244,6 @@ A food ordering and catering management platform built around multiple user role
 </a>
 
 </div>
-
 ---
 
 <div align="center">
