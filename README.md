@@ -134,16 +134,15 @@ A food ordering and catering management platform built around multiple user role
 
 ---
 
-## ✳ EXPERIENCE
+<div align="center">
 
-<sub>PROFESSIONAL EXPERIENCE · REMOTE</sub>
+## ✳ CAREER JOURNEY
 
-| Period | Role | Organization |
-|---|---|---|
-| **03/2026 – Present** | Frontend Developer | **Rayan Dadeh Noafarin** |
-| **09/2025 – 03/2026** | Independent Frontend Developer | **Freelance** |
-| **02/2025 – 08/2025** | Frontend Developer | **Invesweet** |
-| **07/2024 – 01/2025** | Frontend Developer | **Blackstudio** |
+*Four chapters. One continuous journey.*
+
+<img src="./assets/career-journey.svg" width="100%" alt="Ali Alipour career timeline: Blackstudio, Invesweet, Freelance, and Rayan Dadeh Noafarin"/>
+
+</div>
 
 ### WHAT I DO
 
