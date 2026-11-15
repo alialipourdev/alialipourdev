@@ -1,14 +1,95 @@
-<h1 align="center">Hi 👋, I'm Ali Alipour</h1>
-<h3 align="center">Frontend developer from Iran</h3>
-<img aline='right' alt='coding' width='100%' src='https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966'/>
-- 📫 How to reach me **alialipour.dev@gmail.com**
+::: {align="center"}
+# Ali Alipour
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alialipourdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali alipour" height="30" width="40" /></a>
+### Frontend Developer · React & Next.js
 
+`<a href="https://readme-typing-svg.demolab.com">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;React+%7C+Next.js+%7C+TypeScript;Crafting+clean%2C+scalable+frontends" alt="Typing SVG" />`{=html}
+`</a>`{=html}
+
+```{=html}
+<p>
+```
+`<a href="mailto:alialipour.dev@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">`{=html}`</a>`{=html}
+`<a href="https://linkedin.com/in/ali-alipour-037b37324">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}`</a>`{=html}
+`<a href="https://github.com/alialipourdev">`{=html}`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">`{=html}`</a>`{=html}
+```{=html}
 </p>
+```
+![Profile
+Views](https://komarev.com/ghpvc/?username=alialipourdev&style=flat&color=38BDF8)
+:::About Me
+I'm a Frontend Developer focused on building scalable, responsive,
+and user-friendly web applications. I work primarily with React,
+Next.js, and TypeScript, with an emphasis on maintainable
+architecture, reusable components, thoughtful UI, and performance.
+- Building production-ready applications with React and Next.js.
+- Creating reusable design systems and responsive interfaces.
+- Working with modern state management and data-fetching tools.
+- Comfortable collaborating in remote, team-based environments and
+  monorepo projects.
+Tech Stack
+::: {align="center"}
+### Core
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+`<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" alt="TypeScript, JavaScript, React, Next.js" />`{=html}
 
+### UI & Styling
+
+`<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,sass" alt="Tailwind CSS, Material UI, Bootstrap, Sass" />`{=html}
+
+### State, Data & Forms
+
+`<img src="https://skillicons.dev/icons?i=redux,graphql,prisma" alt="Redux, GraphQL, Prisma" />`{=html}
+`<br/>`{=html} `Zustand` · `TanStack Query` · `React Hook Form` · `Zod`
+· `TanStack Table` · `Axios`
+
+### Tooling & Quality
+
+`<img src="https://skillicons.dev/icons?i=git,docker,vite,jest,webpack,pnpm" alt="Git, Docker, Vite, Jest, Webpack, pnpm" />`{=html}
+`<br/>`{=html} `Turborepo` · `Turbopack` · `Biome` · `ESLint` ·
+`Prettier` · `Cypress` · `Sentry`
+:::Selected Projects
+Dayamode --- E-commerce Platform
+A production e-commerce platform.
+
+Stack: Next.js · React · TypeScript · Tailwind CSS · shadcn/ui ·
+Zustand · TanStack Query · Turborepo · Docker
+Dayamode Vendor Panel
+Vendor-facing dashboard for managing e-commerce operations.
+
+Stack: Next.js · React · TypeScript · Tailwind CSS · shadcn/ui ·
+Zustand · TanStack Query · Turborepo · Docker
+Dayamode Admin Panel
+Administration dashboard for the Dayamode platform.
+
+Stack: Next.js · React · TypeScript · Tailwind CSS · shadcn/ui ·
+Zustand · TanStack Query · Turborepo · Docker
+Sofrehdar --- Food Ordering & Catering Management
+A multi-role food ordering and catering management system.
+
+Stack: Next.js · React · TypeScript · React Query · Tailwind CSS ·
+shadcn/ui · Zustand
+Experience
+- Frontend Developer --- Rayan Dadeh Noafarin · Remote ·
+  Mar 2026 – Present
+- Independent Frontend Developer --- Freelance · Remote ·
+  Sep 2025 – Mar 2026
+- Frontend Developer --- Invesweet · Remote ·
+  Feb 2025 – Aug 2025
+- Frontend Developer --- Blackstudio · Remote ·
+  Jul 2024 – Jan 2025
+GitHub Activity
+::: {align="center"}
+`<img height="165" src="https://github-readme-stats.vercel.app/api?username=alialipourdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ali's GitHub statistics" />`{=html}
+`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialipourdev&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />`{=html}
+`<br/>`{=html}
+`<img src="https://streak-stats.demolab.com?user=alialipourdev&hide_border=true&theme=transparent" alt="GitHub contribution streak" />`{=html}
+:::::: {align="center"}
+### Let's build something great.
+
+I'm always happy to connect, collaborate, and work on meaningful
+products.
+
+`<a href="mailto:alialipour.dev@gmail.com">`{=html}alialipour.dev@gmail.com`</a>`{=html}
+:::
