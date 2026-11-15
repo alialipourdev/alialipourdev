@@ -1,13 +1,8 @@
-README refinement — only three sections updated.
+README update notes
 
-Updated:
-- ABOUT / AT A GLANCE: refined professional introduction and profile summary.
-- THE TOOLKIT: reorganized the existing technology list into a cleaner two-column layout. Existing skills retained.
-- THE CONTRIBUTION FLOW: removed the empty GitHub contribution snake and replaced it with ENGINEERING DNA. This section uses principles, not fabricated contribution activity or career dates.
+Added assets/career-journey.svg and embedded it in README as a visual career timeline.
+This is intentionally separate from GitHub Contribution Snake:
+- Career Journey shows the professional roles and dates from the resume.
+- Contribution Snake shows GitHub contribution activity only.
 
-Intentionally preserved without edits:
-- SELECTED WORK and all project descriptions, links, stacks, and showcase images.
-- CAREER JOURNEY and assets/career-journey.svg.
-- Existing hero artwork and other assets.
-
-Upload the README.md and the complete assets/ folder to the profile repository.
+Upload/commit README.md and the complete assets/ folder.
