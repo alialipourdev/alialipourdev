@@ -1,26 +1,18 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,30:17152E,65:312E81,100:0EA5E9&text=ALI%20ALIPOUR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%2F%20DIGITAL%20CRAFTSMAN&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080808,45:171717,75:343434,100:A3E635&fontColor=FFFFFF&fontSize=66&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%20%E2%80%A2%20%20REACT%20%2F%20NEXT.JS&descSize=15&descAlignY=58&animation=fadeIn&text=ALI%20ALIPOUR" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+digital+products.;I+build+more+than+just+interfaces.;React+%2F+Next.js+%2F+TypeScript;Clean+Architecture.+Creative+Engineering." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=A3E635&center=true&vCenter=true&width=650&lines=I+design+and+engineer+digital+experiences.;Turning+ideas+into+scalable+products.;React+%7C+Next.js+%7C+TypeScript;Thoughtful+engineering.+Exceptional+interfaces." />
 
 <br/><br/>
 
-<a href="https://github.com/alialipourdev">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ali-alipour-037b37324">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:alialipour.dev@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-Get%20in%20touch-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=alialipourdev&style=flat-square&color=6366F1&label=PROFILE+VISITORS"/>
+<a href="mailto:alialipour.dev@gmail.com">EMAIL ↗</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://linkedin.com/in/ali-alipour-037b37324">LINKEDIN ↗</a>
+&nbsp;&nbsp; / &nbsp;&nbsp;
+<a href="https://github.com/alialipourdev">GITHUB ↗</a>
 
 </div>
 
@@ -28,200 +20,211 @@
 
 <div align="center">
 
-# CODE IS MY MEDIUM.
-# CREATIVITY IS MY EDGE.
-
-*Building digital experiences with precision, passion, and purpose.*
-
-</div>
-
----
-
-<div align="center">
-
-## ◈ THE DEVELOPER
-
-</div>
-
-I'm **Ali Alipour**, a Frontend Developer with 4+ years of experience building modern, scalable web applications.
-
-I love the intersection of engineering and design — where clean architecture meets exceptional user experience.
-
-My main focus is React, Next.js, and TypeScript, with a passion for turning complex requirements into elegant digital products.
-
-```typescript
-const ali = {
-  role: "Frontend Developer",
-  experience: "4+ Years",
-
-  core: [
-    "React",
-    "Next.js",
-    "TypeScript"
-  ],
-
-  interests: [
-    "Frontend Architecture",
-    "UI Engineering",
-    "Performance",
-    "Scalable Applications"
-  ],
-
-  philosophy: "Make it work. Make it clean. Make it exceptional."
-};
-```
-
----
-
-<div align="center">
-
-## ◈ THE TOOLKIT
-
-*Tools I use to turn ideas into reality.*
+# I BUILD DIGITAL PRODUCTS.
+# NOT JUST INTERFACES.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass,redux,git,docker,vite&theme=dark&perline=6"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Zustand-State%20Management-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/TanStack-Query-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/shadcn%2Fui-Components-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Turborepo-Monorepo-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Biome-Code%20Quality-18181B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zod-Validation-18181B?style=flat-square"/>
+<sub>Frontend engineering · Product thinking · Visual precision</sub>
 
 </div>
 
 ---
 
-<div align="center">
-
-## ◈ SELECTED WORK
-
-*Real products. Real engineering.*
-
-</div>
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-<h3>01 / DAYAMODE</h3>
+### A LITTLE ABOUT ME
 
-**E-commerce Ecosystem**
+I'm **Ali Alipour**, a Frontend Developer with 4+ years of experience building modern web applications.
 
-A production e-commerce platform with dedicated customer, vendor, and administration experiences.
+I care about the details: architecture, performance, reusable systems, and interfaces that feel effortless to use.
 
-**Technology**
-
-`Next.js` `React` `TypeScript`
-
-`Tailwind CSS` `shadcn/ui`
-
-`Zustand` `TanStack Query`
-
-`Turborepo` `Docker`
-
-<br/>
-
-<a href="https://www.dayamode.com/">
-<img src="https://img.shields.io/badge/LIVE%20WEBSITE-Visit%20Project-6366F1?style=for-the-badge"/>
-</a>
-
-<a href="https://dmseller.nrdn.ir/">Vendor Panel ↗</a>
-
-<a href="https://dmadmin.nrdn.ir/">Admin Panel ↗</a>
+I enjoy turning complex problems into simple, elegant experiences.
 
 </td>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
-<h3>02 / SOFREHDAR</h3>
+### QUICK INTRO
 
-**Food & Catering Platform**
+**ROLE**
 
-A multi-role food ordering and catering management system.
+Frontend Developer
 
-**Technology**
+**CORE STACK**
 
-`Next.js` `React` `TypeScript`
+React / Next.js / TypeScript
 
-`React Query` `Tailwind CSS`
+**FOCUS**
 
-`shadcn/ui` `Zustand`
+UI Engineering
 
-<br/><br/>
+Scalable Architecture
 
-<a href="https://panel.sofrehdar.com/">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-Visit%20Panel-0EA5E9?style=for-the-badge"/>
-</a>
+Performance
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## ◈ THE JOURNEY
-
-</div>
-
-| Period | Role | Organization |
-|:---|:---|:---|
-| 2026 — Present | Frontend Developer | Rayan Dadeh Noafarin |
-| 2025 — 2026 | Independent Frontend Developer | Freelance |
-| 2025 | Frontend Developer | Invesweet |
-| 2024 — 2025 | Frontend Developer | Blackstudio |
+<br/>
 
 ---
 
 <div align="center">
 
-## ◈ THE CONTRIBUTION UNIVERSE
+## THE CRAFT
 
-*Every contribution tells a story.*
+*My tools. My playground.*
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,git,docker,vite&theme=dark&perline=8"/>
+
+<br/><br/>
+
+`Zustand` &nbsp; `TanStack Query` &nbsp; `Redux`
+
+`shadcn/ui` &nbsp; `Radix UI` &nbsp; `MUI`
+
+`React Hook Form` &nbsp; `Zod` &nbsp; `TanStack Table`
+
+`Turborepo` &nbsp; `pnpm` &nbsp; `Docker`
+
+`Biome` &nbsp; `ESLint` &nbsp; `Jest` &nbsp; `Cypress`
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## SELECTED WORK
+
+*Things I've helped bring to life.*
+
+</div>
+
+### 01 — DAYAMODE
+
+<sub>COMMERCE / MULTI-APP ECOSYSTEM</sub>
+
+A modern e-commerce ecosystem with dedicated customer, vendor, and administration experiences.
+
+**THE STACK**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Zustand` `TanStack Query` `Turborepo` `Docker`
+
+<div align="center">
+
+<a href="https://www.dayamode.com/">
+<img src="https://img.shields.io/badge/EXPLORE%20WEBSITE-A3E635?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+</a>
+<a href="https://dmseller.nrdn.ir/">
+<img src="https://img.shields.io/badge/VENDOR%20PANEL-222222?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+</a>
+<a href="https://dmadmin.nrdn.ir/">
+<img src="https://img.shields.io/badge/ADMIN%20PANEL-222222?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 02 — SOFREHDAR
+
+<sub>FOOD TECH / MANAGEMENT SYSTEM</sub>
+
+A multi-role food ordering and catering management platform, built with modern frontend technologies.
+
+**THE STACK**
+
+`Next.js` `React` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui` `Zustand`
+
+<div align="center">
+
+<a href="https://panel.sofrehdar.com/">
+<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-A3E635?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## EXPERIENCE
+
+</div>
+
+**2026 — PRESENT** · Frontend Developer
+
+Rayan Dadeh Noafarin · Remote
+
+**2025 — 2026** · Independent Frontend Developer
+
+Freelance · Remote
+
+**2025** · Frontend Developer
+
+Invesweet · Remote
+
+**2024 — 2025** · Frontend Developer
+
+Blackstudio · Remote
+
+---
+
+<div align="center">
+
+## THE CONTRIBUTION FLOW
+
+*Consistency creates momentum.*
+
+<img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 <br/>
 
 <a href="https://github.com/alialipourdev?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+VIEW ALL REPOSITORIES ↗
 </a>
 
 </div>
 
 ---
 
+<br/>
+
 <div align="center">
 
-## ◈ LET'S CONNECT
+# LET'S MAKE SOMETHING
+# MEANINGFUL.
 
-### HAVE AN INTERESTING IDEA?
-
-**Let's turn it into something remarkable.**
+I'm always interested in good ideas, challenging projects, and great people to build with.
 
 <br/>
 
 <a href="mailto:alialipour.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ali.alipour.dev%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-A3E635?style=for-the-badge&logo=gmail&logoColor=111111"/>
 </a>
 
 <br/><br/>
 
-`THINK DIFFERENT.` · `BUILD BETTER.` · `KEEP CREATING.`
+<a href="https://linkedin.com/in/ali-alipour-037b37324">LinkedIn</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/alialipourdev">GitHub</a>
+&nbsp; / &nbsp;
+<a href="mailto:alialipour.dev@gmail.com">Email</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0EA5E9,50:312E81,100:050505" width="100%"/>
+<sub>DESIGNED WITH INTENT. BUILT WITH PASSION.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A3E635,50:222222,100:080808" width="100%"/>
 
 </div>
