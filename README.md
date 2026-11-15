@@ -1,168 +1,149 @@
- 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:312E81,100:0EA5E9&text=ALI%20ALIPOUR&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20DEVELOPER&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:17152E,70:312E81,100:0EA5E9&text=ALI%20ALIPOUR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20DIGITAL%20CRAFTSMAN&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%2F+Next.js+%2F+TypeScript;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Experiences;Clean+Code.+Thoughtful+Design.+Performance." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+things+for+the+web.;Turning+complexity+into+simplicity.;React+%2F+Next.js+%2F+TypeScript;Engineering+experiences%2C+not+just+interfaces." />
 
 <br/><br/>
 
 <a href="https://github.com/alialipourdev">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/ali-alipour-037b37324">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 <a href="mailto:alialipour.dev@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONTACT-Get%20in%20touch-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alialipourdev&label=PROFILE%20VIEWS&color=6366F1&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=alialipourdev&style=flat-square&color=6366F1&label=PROFILE+VISITORS"/>
 
 </div>
-
----
-
-## `01 / ABOUT ME`
-
-```typescript
-const ali = {
-  role: "Frontend Developer",
-  location: "Shiraz, Iran",
-  experience: "4+ Years",
-  focus: [
-    "Scalable Web Applications",
-    "Modern UI/UX",
-    "Frontend Architecture",
-    "Performance Optimization"
-  ],
-  technologies: {
-    core: ["React", "Next.js", "TypeScript"],
-    styling: ["Tailwind CSS", "shadcn/ui", "Radix UI"],
-    state: ["Zustand", "TanStack Query"],
-    architecture: ["Turborepo", "Monorepos"],
-    tools: ["Docker", "Git", "Biome"]
-  },
-  mindset: "Build things that matter."
-};
-```
-
-I'm a Frontend Developer passionate about engineering modern web experiences.
-
-I enjoy transforming complex requirements into clean, maintainable, and high-performance applications.
-
-My main focus is building scalable products with **React, Next.js, and TypeScript**, while keeping code quality, architecture, and user experience at the center of every project.
-
----
-
-## `02 / TECH ARSENAL`
-
-<div align="center">
-
-**LANGUAGES & FRAMEWORKS**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark"/>
-
-<br/><br/>
-
-**UI ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=tailwind,sass,materialui,bootstrap&theme=dark"/>
-
-<br/><br/>
-
-**TOOLS & ECOSYSTEM**
-
-<img src="https://skillicons.dev/icons?i=git,docker,vite,jest,webpack&theme=dark"/>
-
-<br/><br/>
-
-</div>
-
-| Category | Technologies |
-|:--|:--|
-| State Management | Zustand, Redux |
-| Data Fetching | TanStack Query, Axios |
-| Forms & Validation | React Hook Form, Zod |
-| UI Libraries | shadcn/ui, Radix UI, MUI |
-| Data & Content | TanStack Table, Recharts, Lexical |
-| Architecture | Turborepo, pnpm Workspaces |
-| Quality | Biome, ESLint, Prettier, Husky |
-| Testing | Jest, Cypress |
-| Monitoring | Sentry |
-
----
-
-## `03 / SELECTED WORK`
-
-<div align="center">
-
-### ✦ DAYAMODE
-**E-commerce Ecosystem**
-
-A modern e-commerce platform with dedicated vendor and administration dashboards.
-
-<a href="https://www.dayamode.com/">
-<img src="https://img.shields.io/badge/Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://dmseller.nrdn.ir/">
-<img src="https://img.shields.io/badge/Vendor%20Panel-6366F1?style=for-the-badge"/>
-</a>
-<a href="https://dmadmin.nrdn.ir/">
-<img src="https://img.shields.io/badge/Admin%20Panel-7C3AED?style=for-the-badge"/>
-</a>
-
-`Next.js` `TypeScript` `Zustand` `TanStack Query` `Turborepo` `Docker`
 
 <br/>
 
----
+<div align="center">
 
-### ✦ SOFREHDAR
-**Food Ordering & Catering Management**
+# NOT JUST CODE.
+# I BUILD EXPERIENCES.
 
-A multi-role platform designed for food ordering and catering management.
-
-<a href="https://panel.sofrehdar.com/">
-<img src="https://img.shields.io/badge/Explore%20Project-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-`Next.js` `React` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui`
+*Crafting digital products where engineering meets design.*
 
 </div>
 
 ---
 
-## `04 / EXPERIENCE`
+## THE DEVELOPER
 
-| Role | Organization | Period |
-|:--|:--|:--|
-| Frontend Developer | Rayan Dadeh Noafarin | 2026 – Present |
-| Independent Frontend Developer | Freelance | 2025 – 2026 |
-| Frontend Developer | Invesweet | 2025 |
-| Frontend Developer | Blackstudio | 2024 – 2025 |
+I'm Ali — a Frontend Developer with 4+ years of experience building modern web applications.
+
+I care about the details that make software exceptional: thoughtful architecture, elegant interfaces, smooth interactions, and performance that scales.
+
+My daily playground is React, Next.js, and TypeScript.
+
+I don't just write components. I build systems, solve problems, and turn ideas into products.
 
 ---
 
-## `05 / GITHUB ANALYTICS`
+## THE TOOLKIT
 
 <div align="center">
 
-<a href="https://github.com/alialipourdev">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alialipourdev&show_icons=true&hide_border=true&bg_color=09090B&title_color=38BDF8&icon_color=818CF8&text_color=E4E4E7&rank_icon=github"/>
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,git,docker,vite&theme=dark&perline=5"/>
 
-<a href="https://github.com/alialipourdev">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialipourdev&layout=compact&hide_border=true&bg_color=09090B&title_color=38BDF8&text_color=E4E4E7"/>
-</a>
+</div>
+
+<div align="center">
+
+`React` · `Next.js` · `TypeScript` · `JavaScript`
+
+`Tailwind CSS` · `shadcn/ui` · `Radix UI` · `MUI`
+
+`Zustand` · `TanStack Query` · `Redux`
+
+`Turborepo` · `pnpm` · `Docker`
+
+`React Hook Form` · `Zod` · `TanStack Table`
+
+`Git` · `Biome` · `ESLint` · `Prettier`
+
+</div>
+
+---
+
+## SELECTED WORK
+
+<div align="center">
+
+### 01 — DAYAMODE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6366F1,100:06B6D4" width="85%"/>
+
+**E-commerce Ecosystem**
+
+A production e-commerce ecosystem with dedicated customer, vendor, and administration experiences.
+
+<a href="https://www.dayamode.com/">LIVE WEBSITE ↗</a>
+
+<a href="https://dmseller.nrdn.ir/">VENDOR PANEL ↗</a>
+
+<a href="https://dmadmin.nrdn.ir/">ADMIN PANEL ↗</a>
+
+`NEXT.JS` `TYPESCRIPT` `ZUSTAND` `TANSTACK QUERY` `TURBOREPO` `DOCKER`
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=alialipourdev&hide_border=true&background=09090B&ring=6366F1&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=E4E4E7&dates=71717A"/>
+### 02 — SOFREHDAR
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,100:8B5CF6" width="85%"/>
+
+**Food Ordering & Catering Management**
+
+A multi-role platform built for food ordering and catering operations.
+
+<a href="https://panel.sofrehdar.com/">EXPLORE PROJECT ↗</a>
+
+`NEXT.JS` `REACT` `TYPESCRIPT` `REACT QUERY` `TAILWIND CSS`
+
+</div>
+
+---
+
+## THE JOURNEY
+
+<div align="center">
+
+**2026 — PRESENT**
+
+Frontend Developer @ Rayan Dadeh Noafarin
+
+**2025 — 2026**
+
+Independent Frontend Developer @ Freelance
+
+**2025**
+
+Frontend Developer @ Invesweet
+
+**2024 — 2025**
+
+Frontend Developer @ Blackstudio
+
+</div>
+
+---
+
+## BEYOND THE CODE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alialipourdev&show_icons=true&hide_border=true&bg_color=08080D&title_color=818CF8&icon_color=38BDF8&text_color=E4E4E7&rank_icon=github"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialipourdev&layout=compact&hide_border=true&bg_color=08080D&title_color=818CF8&text_color=E4E4E7"/>
+
+<img src="https://streak-stats.demolab.com?user=alialipourdev&hide_border=true&background=08080D&ring=818CF8&fire=38BDF8&currStreakLabel=818CF8&sideLabels=E4E4E7&dates=71717A"/>
 
 </div>
 
@@ -170,11 +151,11 @@ A multi-role platform designed for food ordering and catering management.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366F1,100:38BDF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0EA5E9,50:312E81,100:050505"/>
 
-### LET'S BUILD SOMETHING EXTRAORDINARY.
+### HAVE AN INTERESTING IDEA?
 
-**Open to collaboration, challenging projects & new opportunities.**
+**Let's turn it into something real.**
 
 <a href="mailto:alialipour.dev@gmail.com">
 alialipour.dev@gmail.com
@@ -182,6 +163,6 @@ alialipour.dev@gmail.com
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Designed%20with-♥-7C3AED?style=flat-square"/>
+`DESIGN WITH PURPOSE.` `ENGINEER WITH PASSION.`
 
 </div>
