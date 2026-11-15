@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-labelledby="title">
+  <title id="title">Ali Alipour, frontend engineer in Shiraz, open to opportunities</title>
+  <rect width="1200" height="118" rx="22" fill="#0b0f0c"/>
+  <rect x="0.5" y="0.5" width="1199" height="117" rx="22" fill="none" stroke="#1d2918"/>
+  <line x1="300" y1="30" x2="300" y2="88" stroke="#24301c"/>
+  <line x1="600" y1="30" x2="600" y2="88" stroke="#24301c"/>
+  <line x1="900" y1="30" x2="900" y2="88" stroke="#24301c"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="58" cy="59" r="5" fill="#a3e635"/>
+    <text x="76" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">STATUS</text>
+    <text x="76" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Open to work</text>
+    <text x="332" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">ROLE</text>
+    <text x="332" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Frontend Engineer</text>
+    <text x="632" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">BASED IN</text>
+    <text x="632" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Shiraz, Iran</text>
+    <text x="932" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">EXPERIENCE</text>
+    <text x="932" y="78" fill="#f5f5f5" font-size="20" font-weight="700">4+ Years</text>
+  </g>
+</svg>

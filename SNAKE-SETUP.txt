@@ -4,11 +4,12 @@ Added:
 .github/workflows/snake.yml
 
 What it does:
-- Generates contribution snake SVGs for GitHub user alialipourdev.
-- Publishes generated SVGs to the output branch.
+- Generates a separate contribution snake for 2024, 2025, and 2026.
+- Also writes github-snake.svg as a copy of the latest year, so older links keep resolving.
+- Publishes the SVGs to the output branch.
 - Runs daily, on pushes to main, and manually via workflow_dispatch.
-- Uses a lime/green snake palette.
-- Keeps the existing README image paths intact.
+- Uses the lime palette from the profile.
+- Reads each calendar year from GitHub. It does not invent activity for empty days.
 
 Important:
 GitHub's contribution graph only includes qualifying GitHub activity. The workflow fixes generation and publishing; it cannot invent commits or fill years with no recorded activity.

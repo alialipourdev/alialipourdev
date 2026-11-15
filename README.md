@@ -1,22 +1,14 @@
 <div align="center">
 
-<img src="./assets/hero.png" width="100%" alt="Ali Alipour — Frontend Engineer" />
+<img src="./assets/hero.png" width="100%" alt="Ali Alipour — Frontend Engineer and Digital Craftsman" />
 
 <br/>
 
-<a href="https://github.com/alialipourdev">
-  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/ali-alipour-037b37324">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:alialipour.dev@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
+<img src="./assets/identity.svg" width="100%" alt="Open to work. Frontend engineer in Shiraz, with 4+ years of experience." />
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=900&color=A3E635&center=true&vCenter=true&width=650&lines=I+design+and+engineer+digital+experiences.;Turning+ideas+into+scalable+products.;React+%2F+Next.js+%2F+TypeScript;Thoughtful+engineering.+Creative+execution." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=1200&color=A3E635&center=true&vCenter=true&width=720&lines=Product+interfaces+with+a+backbone.;React+%2F+Next.js+%2F+TypeScript;From+the+first+layout+to+production." alt="Product interfaces with React, Next.js, and TypeScript" />
 
 </div>
 
@@ -24,35 +16,88 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
 ## ✳ ABOUT
 
-I'm **Ali Alipour**, a Frontend Developer focused on building scalable, responsive web applications with **React, Next.js, and TypeScript**.
+I'm **Ali Alipour**, a frontend engineer. I design and build product interfaces with **React, Next.js, and TypeScript**.
 
-I enjoy turning complex requirements into clear, reliable user experiences. My work spans reusable component systems, state management, API integration, performance, and collaborative product development.
+The work usually spans the whole surface of a product: the customer experience, the vendor tools, and the admin system behind them. That includes RTL, performance, typed API clients, and a component architecture other people can keep changing.
 
-I care about the craft behind the interface: maintainable architecture, thoughtful interaction design, and details that make products feel polished.
+I like software that stays calm as it grows. Structure first. Then the details that make it feel finished.
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-## ✳ AT A GLANCE
+## ✳ NOW
 
-**ROLE**  
-Frontend Developer
+**Frontend Developer**  
+Rayan Dadeh Noafarin
 
-**CORE STACK**  
-React · Next.js · TypeScript
+**BEFORE THAT**  
+Freelance  
+Invesweet  
+Blackstudio
 
-**FOCUS**  
-Frontend Architecture  
-UI Engineering  
-Performance & UX  
-Reusable Design Systems
+**FOCUSED ON**  
+Product UI  
+Design systems  
+Performance and RTL
 
-**LOCATION**  
-Shiraz, Iran
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="./assets/focus.svg" width="100%" alt="Three focuses: architecture, interface, and craft." />
+
+---
+
+<div align="center">
+
+## ✳ SELECTED WORK
+
+*Two products. Multiple surfaces. Shipped.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./assets/dayamode-showcase.png" width="100%" alt="Dayamode, a multi-application e-commerce platform" />
+
+<br/>
+
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Zustand` `TanStack Query` `Turborepo` `Docker`
+
+<br/>
+
+<a href="https://www.dayamode.com/">
+  <img src="https://img.shields.io/badge/LIVE%20WEBSITE-A3E635?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Dayamode live website" />
+</a>
+<a href="https://dmseller.nrdn.ir/">
+  <img src="https://img.shields.io/badge/VENDOR-111111?style=for-the-badge" alt="Dayamode vendor panel" />
+</a>
+<a href="https://dmadmin.nrdn.ir/">
+  <img src="https://img.shields.io/badge/ADMIN-111111?style=for-the-badge" alt="Dayamode admin panel" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./assets/sofrehdar-showcase.png" width="100%" alt="Sofrehdar, a multi-role food ordering and catering platform" />
+
+<br/>
+
+`Next.js` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui` `Zustand`
+
+<br/>
+
+<a href="https://panel.sofrehdar.com/">
+  <img src="https://img.shields.io/badge/ADMIN%20PANEL-A3E635?style=for-the-badge&logo=googlechrome&logoColor=111111" alt="Sofrehdar admin panel" />
+</a>
 
 </td>
 </tr>
@@ -64,116 +109,62 @@ Shiraz, Iran
 
 ## ✳ THE TOOLKIT
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,docker,git&theme=dark&perline=5" alt="Core technology icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,mui,graphql,vite,docker,git,jest&theme=dark&perline=6" alt="React, Next.js, TypeScript, JavaScript, Tailwind, Redux, MUI, GraphQL, Vite, Docker, Git, and Jest" />
+
+<br/>
+
+<img src="./assets/toolkit.svg" width="100%" alt="Toolkit grouped by languages, frameworks, interface, state, product, API, systems, and quality." />
 
 </div>
-
-| Area | Technologies |
-|---|---|
-| Languages | JavaScript (ES6+), TypeScript |
-| Frameworks & Libraries | React, Next.js (App Router, SSR/ISR, Server Components), Redux, Zustand, TanStack Query, React Hook Form, Zod, TanStack Table, jQuery |
-| UI & Styling | Tailwind CSS v4, shadcn/ui, Radix UI, MUI, Bootstrap, CVA |
-| Data & Rich Content | Recharts, Lexical, Leaflet, Swiper |
-| API & Integration | REST, GraphQL, Axios, Orval, Hey API |
-| Monorepo & Build | Turborepo, pnpm Workspaces, Turbopack, Vite |
-| Code Quality | Git, Biome.js, ESLint, Prettier, Husky, lint-staged, Commitlint |
-| Monitoring & Testing | Sentry, Jest, Cypress |
-| SEO & Performance | Next.js Metadata API, JSON-LD, Image Optimization |
-| Design | Responsive Design, RTL Interfaces, UI/UX Optimization |
 
 ---
 
 <div align="center">
 
-## ✳ SELECTED WORK
+## ✳ CAREER
 
-*Digital products, built with care.*
+<img src="./assets/career-journey.svg" width="100%" alt="Career timeline: Blackstudio, Invesweet, freelance, and Rayan Dadeh Noafarin." />
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/dayamode-showcase.png" width="100%" alt="Dayamode project visual"/>
-
-### 01 / DAYAMODE
-
-**E-commerce Platform**
-
-A multi-application commerce ecosystem with customer-facing, vendor, and administration experiences.
-
-**STACK**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui` `Zustand` `TanStack Query` `Turborepo` `Docker`
-
-- [Live Website](https://www.dayamode.com/)
-- [Vendor Panel](https://dmseller.nrdn.ir/)
-- [Admin Panel](https://dmadmin.nrdn.ir/)
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./assets/sofrehdar-showcase.png" width="100%" alt="Sofrehdar project visual"/>
-
-### 02 / SOFREHDAR
-
-**Multi-Role Food Ordering & Catering Management System**
-
-A food ordering and catering management platform built around multiple user roles.
-
-**STACK**
-
-`Next.js` `React` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui` `Zustand`
-
-- [Admin Panel](https://panel.sofrehdar.com/)
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
-## ✳ CAREER JOURNEY
+## ✳ CONTRIBUTION ARCHIVE
 
-*Four chapters. One continuous journey.*
+*One snake for 2026, 2025, and 2024.*
 
-<img src="./assets/career-journey.svg" width="100%" alt="Ali Alipour career timeline: Blackstudio, Invesweet, Freelance, and Rayan Dadeh Noafarin"/>
+<br/>
 
-</div>
-
-### WHAT I DO
-
-- Build scalable web applications with Next.js, React, TypeScript, and Tailwind CSS.
-- Develop reusable UI components and maintain consistent component systems with shadcn/ui.
-- Manage client and server state using Zustand and TanStack Query.
-- Work with Turborepo monorepos, pnpm workspaces, and Docker-based workflows.
-- Integrate REST and GraphQL APIs and generate typed API clients.
-- Build responsive interfaces, including RTL layouts, and improve usability and performance.
-- Collaborate with backend developers, clients, and product teams; participate in code reviews.
-
----
-
-<div align="center">
-
-## ✳ THE CONTRIBUTION FLOW
-
-*Every contribution tells a story.*
+### 2026
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake.svg" width="100%" alt="GitHub contribution activity snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2026-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2026.svg" />
+  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2026-dark.svg" width="100%" alt="GitHub contribution snake for 2026" />
 </picture>
 
-<sub>The animation visualizes GitHub contribution activity. Empty cells mean GitHub has no qualifying activity recorded for those dates.</sub>
+### 2025
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2025-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2025.svg" />
+  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2025-dark.svg" width="100%" alt="GitHub contribution snake for 2025" />
+</picture>
+
+### 2024
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2024-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2024.svg" />
+  <img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/output/github-snake-2024-dark.svg" width="100%" alt="GitHub contribution snake for 2024" />
+</picture>
+
+<br/>
 
 <a href="https://github.com/alialipourdev?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-A3E635?style=for-the-badge&logo=github&logoColor=111111" alt="Explore repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-A3E635?style=for-the-badge&logo=github&logoColor=111111" alt="Explore repositories" />
 </a>
 
 </div>
@@ -182,28 +173,22 @@ A food ordering and catering management platform built around multiple user role
 
 <div align="center">
 
-# LET'S MAKE SOMETHING MEANINGFUL.
-
-I’m interested in thoughtful products, challenging frontend problems, and collaborating with people who care about the details.
+<img src="./assets/close.svg" width="100%" alt="Let's make something meaningful." />
 
 <br/>
 
 <a href="mailto:alialipour.dev@gmail.com">
-  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-A3E635?style=for-the-badge&logo=gmail&logoColor=111111" alt="Start a conversation"/>
+  <img src="https://img.shields.io/badge/START%20A%20CONVERSATION-A3E635?style=for-the-badge&logo=gmail&logoColor=111111" alt="Email Ali Alipour" />
+</a>
+<a href="https://linkedin.com/in/ali-alipour-037b37324">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://github.com/alialipourdev">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/alialipourdev">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://linkedin.com/in/ali-alipour-037b37324">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="mailto:alialipour.dev@gmail.com">Email</a>
-
-<br/><br/>
-
 <sub>THINK DIFFERENT. &nbsp; · &nbsp; BUILD BETTER. &nbsp; · &nbsp; KEEP CREATING.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:A3E635,50:222222,100:080808" width="100%" alt="Lime footer"/>
 
 </div>
