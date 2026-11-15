@@ -1,0 +1,15 @@
+ALI ALIPOUR — GITHUB PROFILE README
+
+1. Open the repository: https://github.com/alialipourdev/alialipourdev
+2. Upload README.md to the repository root, replacing the existing README.md.
+3. Upload the entire assets/ folder, preserving its structure:
+   assets/hero.png
+   assets/dayamode-showcase.png
+   assets/sofrehdar-showcase.png
+4. Commit the changes.
+5. The README references the existing Snake output branch at:
+   output/github-snake-dark.svg and output/github-snake.svg
+
+Important:
+- These project visuals are custom-generated showcase artwork, not screenshots of the live products.
+- The README uses verified resume details for roles and dates.
