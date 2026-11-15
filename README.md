@@ -1,24 +1,16 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:17152E,70:312E81,100:0EA5E9&text=ALI%20ALIPOUR&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20DIGITAL%20CRAFTSMAN&descSize=14&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,35:17152E,70:312E81,100:0EA5E9&text=ALI%20ALIPOUR&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=FRONTEND%20ENGINEER%20%2F%20DIGITAL%20CRAFTSMAN&descSize=15&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=I+build+things+for+the+web.;Turning+complexity+into+simplicity.;React+%2F+Next.js+%2F+TypeScript;Engineering+experiences%2C+not+just+interfaces." />
+<br/>
 
-<br/><br/>
-
-<a href="https://github.com/alialipourdev">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/ali-alipour-037b37324">
-<img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:alialipour.dev@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-Get%20in%20touch-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+digital+products.;I+build+more+than+just+interfaces.;React+%2F+Next.js+%2F+TypeScript;Clean+Architecture.+Creative+Engineering." />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alialipourdev&style=flat-square&color=6366F1&label=PROFILE+VISITORS"/>
+<a href="mailto:alialipour.dev@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://linkedin.com/in/ali-alipour-037b37324"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/alialipourdev"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </div>
 
@@ -26,143 +18,167 @@
 
 <div align="center">
 
-# NOT JUST CODE.
-# I BUILD EXPERIENCES.
+# CODE IS MY MEDIUM.
+# CREATIVITY IS MY EDGE.
 
-*Crafting digital products where engineering meets design.*
+*Building digital experiences with precision, passion, and purpose.*
 
 </div>
 
 ---
 
-## THE DEVELOPER
+<div align="center">
 
-I'm Ali — a Frontend Developer with 4+ years of experience building modern web applications.
+### ◈ A LITTLE ABOUT ME
 
-I care about the details that make software exceptional: thoughtful architecture, elegant interfaces, smooth interactions, and performance that scales.
+</div>
 
-My daily playground is React, Next.js, and TypeScript.
+I'm Ali, a Frontend Developer with 4+ years of experience turning complex ideas into modern web applications.
 
-I don't just write components. I build systems, solve problems, and turn ideas into products.
+I love the intersection of engineering and design — where clean architecture meets exceptional user experience.
+
+```typescript
+const developer = {
+  name: "Ali Alipour",
+  role: "Frontend Engineer",
+  experience: "4+ years",
+
+  mainStack: [
+    "React",
+    "Next.js",
+    "TypeScript"
+  ],
+
+  currentlyFocusedOn: [
+    "Scalable Architecture",
+    "Advanced UI Engineering",
+    "Performance Optimization"
+  ],
+
+  philosophy: "Make it work. Make it clean. Make it exceptional."
+};
+```
 
 ---
 
-## THE TOOLKIT
-
 <div align="center">
+
+### ◈ MY DIGITAL WORKSPACE
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,git,docker,vite&theme=dark&perline=5"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-`React` · `Next.js` · `TypeScript` · `JavaScript`
-
-`Tailwind CSS` · `shadcn/ui` · `Radix UI` · `MUI`
-
-`Zustand` · `TanStack Query` · `Redux`
-
-`Turborepo` · `pnpm` · `Docker`
-
-`React Hook Form` · `Zod` · `TanStack Table`
-
-`Git` · `Biome` · `ESLint` · `Prettier`
+<img src="https://img.shields.io/badge/STATE-Zustand%20%7C%20Redux-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA-TanStack%20Query-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI-shadcn%20%7C%20Radix-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/BUILD-Turborepo-18181B?style=flat-square"/>
+<img src="https://img.shields.io/badge/QUALITY-Biome%20%7C%20ESLint-18181B?style=flat-square"/>
 
 </div>
 
 ---
 
-## SELECTED WORK
-
 <div align="center">
 
-### 01 — DAYAMODE
+### ◈ SELECTED PROJECTS
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6366F1,100:06B6D4" width="85%"/>
+*Some things I've helped bring to life.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / DAYAMODE
 
 **E-commerce Ecosystem**
 
-A production e-commerce ecosystem with dedicated customer, vendor, and administration experiences.
+A production e-commerce platform with customer, vendor, and admin experiences.
 
-<a href="https://www.dayamode.com/">LIVE WEBSITE ↗</a>
+**Built with**
 
-<a href="https://dmseller.nrdn.ir/">VENDOR PANEL ↗</a>
+`Next.js` `TypeScript` `Zustand` `TanStack Query` `Turborepo` `Docker`
 
-<a href="https://dmadmin.nrdn.ir/">ADMIN PANEL ↗</a>
+[EXPLORE WEBSITE ↗](https://www.dayamode.com/)
 
-`NEXT.JS` `TYPESCRIPT` `ZUSTAND` `TANSTACK QUERY` `TURBOREPO` `DOCKER`
+[Vendor Dashboard ↗](https://dmseller.nrdn.ir/)
+
+[Admin Dashboard ↗](https://dmadmin.nrdn.ir/)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / SOFREHDAR
+
+**Food & Catering Platform**
+
+A multi-role food ordering and catering management system.
+
+**Built with**
+
+`Next.js` `React` `TypeScript` `React Query` `Tailwind CSS` `shadcn/ui`
+
+[EXPLORE PROJECT ↗](https://panel.sofrehdar.com/)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ◈ THE JOURNEY
+
+</div>
+
+| YEAR | EXPERIENCE |
+|:---:|:---|
+| 2026 — Now | Frontend Developer · Rayan Dadeh Noafarin |
+| 2025 — 2026 | Independent Frontend Developer |
+| 2025 | Frontend Developer · Invesweet |
+| 2024 — 2025 | Frontend Developer · Blackstudio |
+
+---
+
+<div align="center">
+
+# THE CONTRIBUTION UNIVERSE
+
+*Every contribution is a small step toward something bigger.*
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/alialipourdev/alialipourdev/main/dist/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ◈ BEYOND THE CODE
+
+<br/>
+
+**THINK. BUILD. SHIP. REPEAT.**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=alialipourdev&style=for-the-badge&color=312E81&label=VISITORS"/>
 
 <br/><br/>
 
-### 02 — SOFREHDAR
+### HAVE SOMETHING INTERESTING IN MIND?
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,100:8B5CF6" width="85%"/>
+**Let's create something remarkable together.**
 
-**Food Ordering & Catering Management**
-
-A multi-role platform built for food ordering and catering operations.
-
-<a href="https://panel.sofrehdar.com/">EXPLORE PROJECT ↗</a>
-
-`NEXT.JS` `REACT` `TYPESCRIPT` `REACT QUERY` `TAILWIND CSS`
-
-</div>
-
----
-
-## THE JOURNEY
-
-<div align="center">
-
-**2026 — PRESENT**
-
-Frontend Developer @ Rayan Dadeh Noafarin
-
-**2025 — 2026**
-
-Independent Frontend Developer @ Freelance
-
-**2025**
-
-Frontend Developer @ Invesweet
-
-**2024 — 2025**
-
-Frontend Developer @ Blackstudio
-
-</div>
-
----
-
-## BEYOND THE CODE
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alialipourdev&show_icons=true&hide_border=true&bg_color=08080D&title_color=818CF8&icon_color=38BDF8&text_color=E4E4E7&rank_icon=github"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alialipourdev&layout=compact&hide_border=true&bg_color=08080D&title_color=818CF8&text_color=E4E4E7"/>
-
-<img src="https://streak-stats.demolab.com?user=alialipourdev&hide_border=true&background=08080D&ring=818CF8&fire=38BDF8&currStreakLabel=818CF8&sideLabels=E4E4E7&dates=71717A"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0EA5E9,50:312E81,100:050505"/>
-
-### HAVE AN INTERESTING IDEA?
-
-**Let's turn it into something real.**
-
-<a href="mailto:alialipour.dev@gmail.com">
-alialipour.dev@gmail.com
-</a>
+<a href="mailto:alialipour.dev@gmail.com">alialipour.dev@gmail.com</a>
 
 <br/><br/>
 
-`DESIGN WITH PURPOSE.` `ENGINEER WITH PASSION.`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0EA5E9,50:312E81,100:050505" width="100%"/>
 
 </div>
