@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="456" viewBox="0 0 1200 456" role="img" aria-labelledby="title">
+  <title id="title">About Ali Alipour and what he is doing now</title>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g>
+      <rect x="0" y="0" width="748" height="456" rx="22" fill="#0b0f0c" stroke="#1d2918"/>
+      <rect x="40" y="36" width="36" height="4" rx="2" fill="#a3e635"/>
+      <text x="40" y="72" fill="#a3e635" font-size="13" font-weight="700" letter-spacing="3">ABOUT</text>
+      <text x="40" y="122" fill="#f5f5f5" font-size="16">I'm Ali Alipour, a frontend engineer. I design and</text>
+      <text x="40" y="148" fill="#f5f5f5" font-size="16">build product interfaces with</text>
+      <text x="40" y="176" fill="#a3e635" font-size="16" font-weight="700">React, Next.js, and TypeScript.</text>
+      <text x="40" y="224" fill="#a1a1aa" font-size="15">The work spans the customer experience, the vendor tools,</text>
+      <text x="40" y="248" fill="#a1a1aa" font-size="15">and the admin system behind them. That includes RTL,</text>
+      <text x="40" y="272" fill="#a1a1aa" font-size="15">performance, typed API clients, and components other</text>
+      <text x="40" y="296" fill="#a1a1aa" font-size="15">people can keep changing.</text>
+      <text x="40" y="348" fill="#e4e4e7" font-size="16">I like software that stays calm as it grows.</text>
+      <text x="40" y="376" fill="#e4e4e7" font-size="16">Structure first. Then the details that make it feel finished.</text>
+    </g>
+    <g>
+      <rect x="772" y="0" width="428" height="456" rx="22" fill="#0b0f0c" stroke="#1d2918"/>
+      <rect x="808" y="36" width="36" height="4" rx="2" fill="#a3e635"/>
+      <text x="808" y="72" fill="#a3e635" font-size="13" font-weight="700" letter-spacing="3">NOW</text>
+      <text x="808" y="108" fill="#f5f5f5" font-size="22" font-weight="700">Frontend Developer</text>
+      <text x="808" y="134" fill="#a1a1aa" font-size="15">Rayan Dadeh Noafarin</text>
+      <text x="808" y="156" fill="#71717a" font-size="13">Remote  /  2026 - now</text>
+      <text x="808" y="204" fill="#a3e635" font-size="13" font-weight="700" letter-spacing="3">BEFORE THAT</text>
+      <circle cx="816" cy="238" r="4" fill="#a3e635"/>
+      <text x="832" y="243" fill="#f5f5f5" font-size="16">Freelance</text>
+      <text x="1164" y="243" fill="#71717a" font-size="13" text-anchor="end">2025 - 2026</text>
+      <circle cx="816" cy="274" r="4" fill="#3f6212"/>
+      <text x="832" y="279" fill="#e4e4e7" font-size="16">Invesweet</text>
+      <text x="1164" y="279" fill="#71717a" font-size="13" text-anchor="end">2025</text>
+      <circle cx="816" cy="310" r="4" fill="#3f6212"/>
+      <text x="832" y="315" fill="#e4e4e7" font-size="16">Blackstudio</text>
+      <text x="1164" y="315" fill="#71717a" font-size="13" text-anchor="end">2024 - 2025</text>
+      <text x="808" y="364" fill="#a3e635" font-size="13" font-weight="700" letter-spacing="3">FOCUSED ON</text>
+      <text x="808" y="396" fill="#f5f5f5" font-size="15">Product UI  /  Design systems</text>
+      <text x="808" y="422" fill="#f5f5f5" font-size="15">Performance and RTL</text>
+    </g>
+  </g>
+</svg>

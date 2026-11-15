@@ -1,19 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="118" viewBox="0 0 1200 118" role="img" aria-labelledby="title">
-  <title id="title">Ali Alipour, frontend engineer in Shiraz, open to opportunities</title>
-  <rect width="1200" height="118" rx="22" fill="#0b0f0c"/>
-  <rect x="0.5" y="0.5" width="1199" height="117" rx="22" fill="none" stroke="#1d2918"/>
-  <line x1="300" y1="30" x2="300" y2="88" stroke="#24301c"/>
-  <line x1="600" y1="30" x2="600" y2="88" stroke="#24301c"/>
-  <line x1="900" y1="30" x2="900" y2="88" stroke="#24301c"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="168" viewBox="0 0 1200 168" role="img" aria-labelledby="title">
+  <title id="title">Ali Alipour, frontend engineer in Shiraz, open to work</title>
+  <defs>
+    <linearGradient id="idline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0f0c"/>
+      <stop offset="0.5" stop-color="#a3e635"/>
+      <stop offset="1" stop-color="#0b0f0c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="168" rx="22" fill="#0b0f0c"/>
+  <rect x="0.5" y="0.5" width="1199" height="167" rx="22" fill="none" stroke="#1d2918"/>
+  <line x1="300" y1="28" x2="300" y2="86" stroke="#24301c"/>
+  <line x1="600" y1="28" x2="600" y2="86" stroke="#24301c"/>
+  <line x1="900" y1="28" x2="900" y2="86" stroke="#24301c"/>
+  <rect x="120" y="108" width="960" height="2" fill="url(#idline)"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <circle cx="58" cy="59" r="5" fill="#a3e635"/>
-    <text x="76" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">STATUS</text>
-    <text x="76" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Open to work</text>
-    <text x="332" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">ROLE</text>
-    <text x="332" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Frontend Engineer</text>
-    <text x="632" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">BASED IN</text>
-    <text x="632" y="78" fill="#f5f5f5" font-size="20" font-weight="700">Shiraz, Iran</text>
-    <text x="932" y="48" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">EXPERIENCE</text>
-    <text x="932" y="78" fill="#f5f5f5" font-size="20" font-weight="700">4+ Years</text>
+    <circle cx="58" cy="57" r="11" fill="#a3e635" opacity="0.22"/>
+    <circle cx="58" cy="57" r="5" fill="#a3e635"/>
+    <text x="80" y="46" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">STATUS</text>
+    <text x="80" y="76" fill="#f5f5f5" font-size="20" font-weight="700">Open to work</text>
+    <text x="332" y="46" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">ROLE</text>
+    <text x="332" y="76" fill="#f5f5f5" font-size="20" font-weight="700">Frontend Engineer</text>
+    <text x="632" y="46" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">BASED IN</text>
+    <text x="632" y="76" fill="#f5f5f5" font-size="20" font-weight="700">Shiraz, Iran</text>
+    <text x="932" y="46" fill="#a3e635" font-size="12" font-weight="700" letter-spacing="2.4">EXPERIENCE</text>
+    <text x="932" y="76" fill="#f5f5f5" font-size="20" font-weight="700">4+ Years</text>
+    <text x="600" y="142" fill="#e4e4e7" font-size="16" text-anchor="middle">Product interfaces with a backbone. From the first layout to production.</text>
   </g>
 </svg>

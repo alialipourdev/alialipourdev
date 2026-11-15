@@ -7,8 +7,6 @@ ALI ALIPOUR — GITHUB PROFILE README
    assets/dayamode-showcase.png
    assets/sofrehdar-showcase.png
 4. Commit the changes.
-5. The README references the existing Snake output branch at:
-   output/github-snake-dark.svg and output/github-snake.svg
 
 Important:
 - These project visuals are custom-generated showcase artwork, not screenshots of the live products.
